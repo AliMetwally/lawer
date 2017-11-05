@@ -1,9 +1,13 @@
 <?php
 
+class Pages extends CI_Controller
+{
 
-class Pages extends CI_Controller {
-    
-    
-    
-    
-} // end of class 
+    public function index()
+    {
+        echo 'Welcome';
+    }
+
+}
+
+// end of class 
