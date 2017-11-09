@@ -39,3 +39,60 @@ body {
     color: #08526d !important;
 }
 /*end navbar*/
+
+/*Start Slider*/
+.slider{
+    background-color: #DDD;           
+}
+
+.slider .carousel-inner{
+    display: flex;
+    align-items: center;
+    justify-content: left;    
+}
+
+.slider .carousel-inner h1{
+    position: absolute;
+    z-index: 3;
+    color: #fff;
+    max-width: 600px;
+    font-size: 50px;
+    left: 100px;
+}
+
+.slider .carousel-inner .overlay{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 2;
+}
+
+.slider .carousel-item{
+    background-size: cover;   
+    -webkit-background-size: cover;
+    -moz-background-size: cover;    
+}
+
+#main-slider > .carousel-inner > .slide-one
+{
+    background-image: url('../imges/slider01.jpg');
+}
+
+#main-slider > .carousel-inner > .slide-two
+{
+    background-image: url('../imges/slider02.jpg');
+}
+
+#main-slider > .carousel-inner > .slide-three
+{
+    background-image: url('../imges/slider03.jpg');
+}
+
+.carousel-indicators li{
+    height: 8px;
+    cursor: pointer;
+}
+/*End Slider*/

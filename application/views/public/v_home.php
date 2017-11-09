@@ -6,7 +6,7 @@
                 <i class="fa fa-phone "></i> 01111444795
             </div>
             <div class="col">
-                عبد ربه للاستشارات القانونيه
+                الاستشارات
             </div>
         </div>
     </div> <!-- /.container -->
@@ -38,11 +38,37 @@
                 <li class="nav-item">
                     <a class="nav-link" href="#">الاهداف</a>
                 </li>
-                
+
             </ul>
 
         </div>
     </div>
 </nav>
-</div>
+
 <!--end navbar-->
+
+<!--Start Slider-->
+<div class="slider">
+    <div id="main-slider" class="carousel slide" data-ride="carousel">
+        
+        
+        
+        <div class="carousel-inner">
+            <div class="overlay"></div>
+            <h1>We're an Independent Design and Development Agency</h1>
+            <div class="slide-one carousel-item active">
+            </div>
+            <div class="slide-two carousel-item">
+            </div>
+            <div class="slide-three carousel-item">
+            </div>
+        </div>
+        
+        <ol class="carousel-indicators">
+            <li data-target="#main-slider" data-slide-to="0" class="active"></li>
+            <li data-target="#main-slider" data-slide-to="1"></li>
+            <li data-target="#main-slider" data-slide-to="2"></li>
+        </ol>
+    </div>
+</div>
+<!--End Slider-->
