@@ -53,7 +53,7 @@
         
         
         
-        <div class="carousel-inner">
+        <div class="carousel-inner"> 
             <div class="overlay"></div>
             <h1>We're an Independent Design and Development Agency</h1>
             <div class="slide-one carousel-item active">
@@ -72,3 +72,47 @@
     </div>
 </div>
 <!--End Slider-->
+
+
+<!--Start Features-->
+<div class="features text-center">
+    
+    <div class="container">
+        <h2>Features</h2>
+        <div class="row">
+            <div class="col-sm-6 col-lg-3">
+                <i class="fa fa-home fa-3x rounded-circle"></i>
+                <h3>Feature Title</h3>
+                <p>Curabitur aliquet quam id dui posuere blandit. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.</p>
+            </div>
+            <div class="col-sm-6 col-lg-3">
+                <i class="fa fa-home fa-3x rounded-circle"></i>
+                <h3>Feature Title</h3>
+                <p>Curabitur aliquet quam id dui posuere blandit. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.</p>
+            </div>
+            <div class="col-sm-6 col-lg-3">
+                <i class="fa fa-home fa-3x rounded-circle"></i>
+                <h3>Feature Title</h3>
+                <p>Curabitur aliquet quam id dui posuere blandit. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.</p>
+            </div>
+            <div class="col-sm-6 col-lg-3">
+                <i class="fa fa-home fa-3x rounded-circle"></i>
+                <h3>Feature Title</h3>
+                <p>Curabitur aliquet quam id dui posuere blandit. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<!--End Features-->
+
+
+<!--Start Overview-->
+<div class="overview text-center">
+    <div class="container">
+        <h2>Company Overview</h2>
+        <p>Sed porttitor lectus nibh. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.</p>
+        <h4>Lets Start Today</h4>
+        <button>View More</button>
+    </div>
+</div>
+<!--End Overview-->
